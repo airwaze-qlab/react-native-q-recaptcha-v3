@@ -1,5 +1,6 @@
 {
   "name": "@airwaze-qlab/react-native-recaptchav3",
+  "private": false,
   "version": "1.0.0",
   "devDependencies": {
     "@types/react": "~18.0.27",
